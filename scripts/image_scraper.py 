@@ -1,0 +1,53 @@
+import os, requests, json
+from duckduckgo_search import DDGS
+from PIL import Image
+from io import BytesIO
+from tqdm import tqdm
+
+def scrape_images(query, domain, language, num_images=10):
+    save_dir = f"../raw_images/{domain}_{language}"
+    os.makedirs(save_dir, exist_ok=True)
+    results = []
+
+    print(f"🔍 Searching DuckDuckGo for: {query}")
+    with DDGS() as ddgs:
+        for r in ddgs.images(query, max_results=num_images):
+            results.append(r)
+
+    print(f"📥 Downloading {len(results)} images...")
+    meta = []
+
+    for i, result in enumerate(tqdm(results), start=1):
+        try:
+            image_url = result["image"]
+            response = requests.get(image_url, timeout=10)
+            image = Image.open(BytesIO(response.content))
+
+            if image.width < 200 or image.height < 200:
+                continue
+            if image.width > 4 * image.height:
+                continue
+
+            filename = f"{domain}_{language}_{i}.jpg"
+            filepath = os.path.join(save_dir, filename)
+            image.save(filepath)
+
+            meta.append({
+                "file_name": filename,
+                "url": image_url,
+                "width": image.width,
+                "height": image.height,
+                "language": language,
+                "domain": domain
+            })
+        except Exception as e:
+            print(f"⚠️ Error downloading image {i}: {e}")
+
+    meta_path = f"../metadata/{domain}_{language}.json"
+    with open(meta_path, "w", encoding="utf-8") as f:
+        json.dump(meta, f, indent=2, ensure_ascii=False)
+
+if __name__ == "__main__":
+    scrape_images("korean restaurant signs", "urban", "ko", 8)
+    scrape_images("japanese restaurant signs", "urban", "ja", 8)
+    scrape_images("arabic restaurant signs", "urban", "ar", 8)
