@@ -1,0 +1,11 @@
+certifi==2025.4.26
+charset-normalizer==3.4.2
+click==8.1.8
+duckduckgo_search==8.0.3
+idna==3.10
+lxml==5.4.0
+pillow==11.2.1
+primp==0.15.0
+requests==2.32.4
+tqdm==4.67.1
+urllib3==2.4.0
