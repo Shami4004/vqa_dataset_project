@@ -1,0 +1,3 @@
+[submodule "agents/cursor_vip"]
+	path = agents/cursor_vip
+	url = https://github.com/yeongpin/cursor-free-vip.git
