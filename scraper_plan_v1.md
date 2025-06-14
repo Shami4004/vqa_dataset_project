@@ -7,10 +7,31 @@
   For now, it is exhaustive and will serve as our base.
 
 ---
+🎯 Strategy Summary
+
+We will source images from:
+
+    Manually Curated Archives
+        Government and NGO data portals
+        Academic journal image sections
+        Niche Forums, gems blogs and articles
+        Language-specific sites (Arabic, Spanish, Portuguese, Korean, Japanese, German, French, Chinese)
+
+    Deep Web Tools & Agents
+        Cursor/Windsurf (for code-based assistance)
+        Perplexity (deep search AI)
+        DeepSearch via OpenAI API
+
+    Fallback Methods
+        DuckDuckGo,bing,google,yahoo...etc + careful filters
+        Direct web scraping (via requests, bs4)
+        Public datasets like Flickr Commons
+
+---
 
 ### 1. Examples of Manually Curated Sources – Zero Authentication Catalog
 
-Each source listed below is freely accessible (no API key, no login), and covers niches that are rarely indexed.
+Each source must be like the listed below : freely accessible (no API key, no login), and covers niches that are rarely indexed.
 We’ll enrich it by theme according to `taxonomy.json`.
 
 | # | Theme                              | Endpoint / URL                                                                                   | Parameters & Tips                                       | Key Metadata                            |
