@@ -1,0 +1,838 @@
+{
+  "Sciences": {
+    "Formal Sciences": {
+      "Logic and Mathematics": {
+        "image_gems": [
+          {
+            "url": "https://archive.org/details/isbn_4383626049506",
+            "desc": "Concepts and Images: Visual Mathematics – Archive de l’ouvrage d’Arthur L. Loeb, illustrations mathématiques rares, diagrammes, visualisations historiques peu connues."
+          },
+          {
+            "url": "https://archive.org/details/tufte_visual_display_of_quantitative_information_low-res",
+            "desc": "The Visual Display of Quantitative Information (Edward Tufte) – scans du livre culte sur la visualisation mathématique, figures originales et historiques."
+          },
+          {
+            "url": "https://mathcurve.com/courbes2d/galerie/galerie.shtml",
+            "desc": "Galerie de courbes mathématiques exotiques, visualisations interactives, site personnel de Robert Ferréol, unique en son genre."
+          },
+          {
+            "url": "https://www.mathimages.com/",
+            "desc": "Galerie collaborative d’illustrations mathématiques, visualisations, fractales, objets peu connus."
+          },
+          {
+            "url": "https://www.cut-the-knot.org/ctk/Gallery.shtml",
+            "desc": "Galerie de démonstrations mathématiques interactives, figures et animations originales."
+          }
+        ]
+      },
+      "Computer Science": {
+        "image_gems": [
+          {
+            "url": "https://www.computerhistory.org/revolution/images",
+            "desc": "Galerie d’images historiques sur l’informatique, matériel, documents rares."
+          },
+          {
+            "url": "https://www.bitsavers.org/",
+            "desc": "Scans et photos de vieux ordinateurs, manuels, hardware oubliés, communauté de rétro-computing."
+          }
+        ]
+      },
+      "Information Technologies": {
+        "image_gems": [
+          {
+            "url": "https://oldcomputers.net/pics.html",
+            "desc": "Galerie d’ordinateurs vintage, photos d’objets et d’interfaces oubliées."
+          }
+        ]
+      },
+      "Information Science": {
+        "image_gems": [
+          {
+            "url": "https://www.loc.gov/pictures/search/?q=library",
+            "desc": "Photos historiques de bibliothèques, salles de lecture, collections rares."
+          },
+          {
+            "url": "https://archives.cern/record/213603/files/",
+            "desc": "Archives documentaires du CERN : gestion de l’information scientifique, images d’archives."
+          }
+        ]
+      },
+      "Statistics and Probability": {
+        "Actuarial Science": {
+          "image_gems": [
+            {
+              "url": "https://www.casact.org/about/gallery",
+              "desc": "Casualty Actuarial Society : photos historiques d’actuaires, documents de calcul, archives inédites."
+            },
+            {
+              "url": "https://digitalcommons.unl.edu/actuarialsciencefacpub/",
+              "desc": "University of Nebraska-Lincoln : publications illustrées, schémas de calcul actuariel, images de conférences."
+            },
+            {
+              "url": "https://gallica.bnf.fr/ark:/12148/bpt6k5628890t/f1.image.r=actuariat.langFR",
+              "desc": "Gallica BnF : manuels anciens d’actuariat, tableaux, graphiques, illustrations oubliées."
+            }
+          ]
+        },
+        "Electrical Engineering": {
+          "image_gems": [
+            {
+              "url": "https://www.electricalfun.com/gallery",
+              "desc": "Galerie de composants, montages, appareils électriques vintage, photos de passionnés."
+            }
+          ]
+        }
+      },
+      "Mathematical Logic": {
+        "image_gems": [
+          {
+            "url": "https://archive.org/details/FourCentersOfTriangles",
+            "desc": "Vidéo pédagogique d’archive : construction géométrique de centres de triangles, visualisations math-physiques anciennes."
+          },
+          {
+            "url": "https://www.logicmatters.net/gallery/",
+            "desc": "Galerie d’illustrations sur la logique mathématique, diagrammes de preuves, objets rares."
+          },
+          {
+            "url": "https://plato.stanford.edu/entries/logic-photographs/",
+            "desc": "Images d’archives de logique mathématique, manuscrits, portraits peu diffusés."
+          }
+        ]
+      },
+      "Forensic Sciences": {
+        "image_gems": [
+          {
+            "url": "https://www.nlm.nih.gov/exhibition/visibleproofs/galleries/gallery.html",
+            "desc": "Visible Proofs (NLM) : archives médico-légales, scènes de crime historiques, instruments."
+          },
+          {
+            "url": "https://www.loc.gov/pictures/search/?q=forensics",
+            "desc": "Photos historiques de la criminalistique, laboratoires, méthodes d’enquête, Library of Congress."
+          }
+        ]
+      },
+      "Conservation Science": {
+        "image_gems": [
+          {
+            "url": "https://www.iccrom.org/resources/photo-archive",
+            "desc": "ICCROM Photo Archive : restauration, conservation, chantiers patrimoniaux."
+          },
+          {
+            "url": "https://www.culturalheritage.org/resources/photo-gallery",
+            "desc": "AIC Conservation : images de laboratoires, restaurations, analyses scientifiques du patrimoine."
+          }
+        ]
+      }
+    },
+    "Natural and Physical Sciences": {
+      "Physics": {
+        "image_gems": [
+          {
+            "url": "https://lense.institutoptique.fr/ressources/Annee3/Archives/S9-PhQ/S9-2122-PhQ.EN.pdf",
+            "desc": "Archives pédagogiques de l’Institut d’Optique : expériences quantiques rares, schémas expérimentaux, photos de montages historiques."
+          },
+          {
+            "url": "https://www.institutoptique.fr/en/institut-doptique/history",
+            "desc": "Histoire illustrée de l’Institut d’Optique, photos d’expériences pionnières, instruments uniques, archives institutionnelles peu connues."
+          },
+          {
+            "url": "https://www.physicscentral.com/explore/pictures/",
+            "desc": "Galerie d’images de phénomènes physiques, expériences, photos peu diffusées."
+          },
+          {
+            "url": "https://www.nikhef.nl/~i93/beeldbank/",
+            "desc": "Banque d’images du Nikhef (institut néerlandais de physique des hautes énergies), photos de labos et expériences rares."
+          },
+          {
+            "url": "https://gallica.bnf.fr/html/und/sciences/physique-archives-illustrees",
+            "desc": "Gallica BnF : archives illustrées de la physique, instruments anciens, schémas scientifiques inédits."
+          },
+          {
+            "url": "https://digital.chemheritage.org/",
+            "desc": "Collections numériques du Science History Institute : photos d’instruments, verrerie, labos anciens, archives iconographiques peu exploitées."
+          },
+          {
+            "url": "https://www.chemheritage.org/stories/stories-by-topic/where-science-happens/",
+            "desc": "Where Science Happens : reportages photo sur les lieux insolites de la chimie (usines, ateliers, cuisines scientifiques), images rares hors laboratoire."
+          },
+          {
+            "url": "https://oldscientificphotos.com/tagged/chemistry",
+            "desc": "Blog d’archives photographiques scientifiques, instruments et expériences chimiques oubliés, clichés inédits du XXe siècle."
+          },
+          {
+            "url": "https://gallica.bnf.fr/html/und/sciences/chimie-archives-illustrees",
+            "desc": "Gallica BnF : archives illustrées de la chimie, manuels anciens, instruments rares, iconographie inédite."
+          },
+          {
+            "url": "https://www.rsc.org/periodic-table/history/gallery",
+            "desc": "Royal Society of Chemistry Periodic Table Gallery : photos historiques d’éléments, objets de laboratoire, archives de la chimie."
+          }
+        ]
+      },
+      "Chemistry": {
+        "image_gems": [
+          {
+            "url": "https://digital.chemheritage.org/",
+            "desc": "Collections numériques du Science History Institute : photos d’instruments, verrerie, labos anciens, archives iconographiques peu exploitées."
+          },
+          {
+            "url": "https://www.chemheritage.org/stories/stories-by-topic/where-science-happens/",
+            "desc": "Where Science Happens : reportages photo sur les lieux insolites de la chimie (usines, ateliers, cuisines scientifiques), images rares hors laboratoire."
+          },
+          {
+            "url": "https://oldscientificphotos.com/tagged/chemistry",
+            "desc": "Blog d’archives photographiques scientifiques, instruments et expériences chimiques oubliés, clichés inédits du XXe siècle."
+          },
+          {
+            "url": "https://gallica.bnf.fr/html/und/sciences/chimie-archives-illustrees",
+            "desc": "Gallica BnF : archives illustrées de la chimie, manuels anciens, instruments rares, iconographie inédite."
+          },
+          {
+            "url": "https://www.rsc.org/periodic-table/history/gallery",
+            "desc": "Royal Society of Chemistry Periodic Table Gallery : photos historiques d’éléments, objets de laboratoire, archives de la chimie."
+          }
+        ]
+      },
+      "Earth Sciences": {
+        "Geology": {
+          "image_gems": [
+            {
+              "url": "https://ngmdb.usgs.gov/Prodesc/proddesc_101.htm",
+              "desc": "USGS National Geologic Map Database : cartes géologiques anciennes, photos de terrain."
+            },
+            {
+              "url": "https://www.geolsoc.org.uk/Library-and-Information-Services/Images",
+              "desc": "Geological Society of London : images historiques de minéraux, fossiles, cartes et instruments."
+            },
+            {
+              "url": "https://www.usgs.gov/media/images",
+              "desc": "USGS Media Gallery : minéraux, roches, paysages géologiques, cartes anciennes."
+            },
+            {
+              "url": "https://www.bgs.ac.uk/discovering-geology/photographs/",
+              "desc": "British Geological Survey : photos de terrain, fossiles, coupes géologiques."
+            },
+            {
+              "url": "https://archive.org/details/fieldguidetogeol00lamb_0",
+              "desc": "The Field Guide to Geology : illustrations de terrain, croquis, photos de formations géologiques, extraits de guides de terrain anciens."
+            },
+            {
+              "url": "https://archive.org/details/geologicformatio00calirich",
+              "desc": "Cartes et photos d’archives sur les champs pétrolifères et formations géologiques de Californie, Division of Mines and Geology, documents d’État rares."
+            },
+            {
+              "url": "https://macrostrat.org/photo/",
+              "desc": "Galerie de photos de terrains géologiques, affleurements, roches, projets de recherche peu connus."
+            },
+            {
+              "url": "https://geoscienceworld.org/gswimages",
+              "desc": "Banque d’images scientifiques issues de revues géologiques, souvent uniques et peu référencées."
+            }
+          ]
+        },
+        "Oceanography": {
+          "image_gems": [
+            {
+              "url": "https://seawater.no/gallery/",
+              "desc": "Galerie norvégienne d’espèces marines nordiques, passionnés locaux."
+            },
+            {
+              "url": "https://www.mbari.org/products/image-gallery/",
+              "desc": "Monterey Bay Aquarium Research Institute : images d’expéditions, faune abyssale, robots sous-marins, archives de recherche."
+            },
+            {
+              "url": "https://www.somali.ox.ac.uk/gallery/oceanography/",
+              "desc": "Oxford Somali Oceanography Project : photos de campagnes de terrain, instruments, espèces rares de l’océan Indien."
+            },
+            {
+              "url": "https://oceanexplorer.noaa.gov/image-gallery/welcome.html",
+              "desc": "NOAA Ocean Exploration : galerie d’images d’expéditions récentes, fonds abyssaux, technologies de plongée profonde, habitats extrêmes, volcans sous-marins et patrimoine maritime."
+            },
+            {
+              "url": "https://scripps.ucsd.edu/marine-vertebrate-collection",
+              "desc": "Scripps Institution of Oceanography : une des plus grandes collections mondiales de poissons marins profonds et de vertébrés pélagiques, spécimens rares issus d’expéditions scientifiques."
+            },
+            {
+              "url": "https://scripps.ucsd.edu/pelagic-invertebrate-collection",
+              "desc": "Scripps Institution of Oceanography : collection d’invertébrés marins pélagiques, incluant la série CalCOFI, archives photographiques sur le plancton depuis 1949."
+            },
+            {
+              "url": "https://scripps.ucsd.edu/benthic-invertebrate-collection",
+              "desc": "Scripps Institution of Oceanography : collection exceptionnelle d’invertébrés benthiques des grands fonds et écosystèmes chimiosynthétiques, images de biodiversité extrême."
+            },
+            {
+              "url": "https://scripps.ucsd.edu/geological-collections",
+              "desc": "Scripps Institution of Oceanography : collections de carottes océaniques profondes, roches, microfossiles marins et minéraux, archives photographiques de géologie marine."
+            }
+          ]
+        },
+        "Meteorology": {
+          "image_gems": [
+            {
+              "url": "https://www.atoptics.co.uk/gallery.htm",
+              "desc": "Galerie de phénomènes atmosphériques rares (halos, nuages spéciaux), site de passionné."
+            },
+            {
+              "url": "https://www.nssl.noaa.gov/education/svrwx101/photos/",
+              "desc": "NOAA Severe Weather 101 : photos d’orages, tornades, phénomènes extrêmes, archives scientifiques américaines."
+            },
+            {
+              "url": "https://www.clouds-online.com/gallery/",
+              "desc": "Clouds Online : galerie de nuages rares, phénomènes météorologiques, contributions de passionnés et chercheurs."
+            },
+            {
+              "url": "https://digital.archives.caltech.edu/images/",
+              "desc": "Caltech Archives : instruments scientifiques historiques, planches rares de météorologie et de sismologie, gravures et photos issues de la révolution scientifique."
+            }
+          ]
+        },
+        "Climatology": {
+          "image_gems": [
+            {
+              "url": "https://www.ncdc.noaa.gov/climate-information/picture-gallery",
+              "desc": "Galerie d’images climatiques historiques et contemporaines de la NOAA, peu connues hors du cercle scientifique."
+            }
+          ]
+        },
+        "Mythology": {
+          "image_gems": [
+            {
+              "url": "https://mythopedia.com/gallery",
+              "desc": "Illustrations, œuvres d’art et images rares sur les mythologies du monde entier."
+            }
+          ]
+        }
+      },
+      "Astronomy and Astrophysics": {
+        "image_gems": [
+          {
+            "url": "https://archive.org/details/annalsastronomi01unkngoog",
+            "desc": "Annals of the Astronomical Observatory of Harvard College : photos d’observatoires, plaques photographiques anciennes, images astronomiques inédites."
+          },
+          {
+            "url": "https://chandra.harvard.edu/photo/2024/25th/more.html",
+            "desc": "Chandra X-ray Observatory : collection d’images astronomiques rares en rayons X, comparaisons multi-longueurs d’onde, objets célestes peu documentés."
+          },
+          {
+            "url": "https://alpo-astronomy.org/gallery3/",
+            "desc": "Galerie d’astronomes amateurs, images de planètes et phénomènes célestes peu diffusées."
+          },
+          {
+            "url": "https://www.eso.org/public/images/archive/category/solar-system/",
+            "desc": "Archives d’images de l’ESO, y compris des observations rares du système solaire."
+          }
+        ]
+      },
+      "Biology": {
+        "Cell Biology": {
+          "image_gems": [
+            {
+              "url": "https://www.cellimagelibrary.org/",
+              "desc": "Banque d’images microscopiques, cellules, tissus, organismes modèles, fonds peu connus."
+            }
+          ]
+        },
+        "Molecular Biology": {
+          "image_gems": [
+            {
+              "url": "https://www.rcsb.org/3d-view",
+              "desc": "Visualisations 3D de structures moléculaires, protéines, ADN, images issues de la recherche."
+            }
+          ]
+        },
+        "Ecology": {
+          "image_gems": [
+            {
+              "url": "https://www.ecologyimages.co.uk/",
+              "desc": "Photos de terrain, habitats, espèces, interactions écologiques, site de chercheur indépendant."
+            },
+            {
+              "url": "https://www.nps.gov/subjects/museums/nps-archives.htm",
+              "desc": "National Park Service Archival Collections : archives photographiques inédites sur les écosystèmes nord-américains, études historiques d’espèces et d’habitats, documentation scientifique de terrain."
+            },
+            {
+              "url": "https://www.usgs.gov/programs/usgs-library/collections",
+              "desc": "USGS Library Collections : photos, cartes et archives scientifiques sur la biodiversité, la géologie et l’écologie des États-Unis, fonds remontant au 16e siècle."
+            }
+          ]
+        },
+        "Evolutionary Biology": {
+          "image_gems": [
+            {
+              "url": "https://tolweb.org/tree/phylogeny.html",
+              "desc": "Images d’arbres évolutifs, schémas, photos d’espèces rares du Tree of Life Web Project."
+            },
+            {
+              "url": "https://www.ebi.ac.uk/bioimage-archive/",
+              "desc": "BioImage Archive (EMBL-EBI) : base internationale d’images scientifiques, collections inédites de biologie évolutive, imagerie cellulaire, embryologie, morphogenèse, données issues de publications majeures."
+            },
+            {
+              "url": "https://evolution.berkeley.edu/lines-of-evidence/fossil-evidence/",
+              "desc": "Understanding Evolution (Berkeley) : galerie pédagogique sur les preuves fossiles, photos de fossiles emblématiques, explications sur la macroévolution, archives éducatives universitaires."
+            }
+          ]
+        },
+        "Linguistics": {
+          "image_gems": [
+            {
+              "url": "https://www.oeaw.ac.at/acdh/resources/photo-archive/linguistics",
+              "desc": "Austrian Centre for Digital Humanities : photos de linguistes, manuscrits, phonogrammes."
+            },
+            {
+              "url": "https://www.loc.gov/pictures/search/?q=linguistics",
+              "desc": "Library of Congress : images sur la linguistique, phonétique, dialectologie."
+            },
+            {
+              "url": "https://gallica.bnf.fr/html/und/langues/linguistique-archives-illustrees",
+              "desc": "Gallica BnF : archives illustrées de la linguistique, grammaires anciennes, manuscrits rares, schémas inédits."
+            },
+            {
+              "url": "https://www.linguistlist.org/photo-archive/",
+              "desc": "Linguist List Photo Archive : images de conférences, portraits de linguistes, photos de terrain peu diffusées."
+            },
+            {
+              "url": "https://www.escholar.manchester.ac.uk/uk-ac-man-scw:1m2228",
+              "desc": "Manchester eScholar : photos de manuscrits linguistiques rares, archives universitaires peu exploitées."
+            }
+          ]
+        },
+        "Zoology (Animal Sciences)": {
+          "image_gems": [
+            {
+              "url": "https://www.fieldmuseum.org/research/collections/zoology/image-archive",
+              "desc": "Field Museum Zoology Archive : photos d’espèces rares, spécimens, expéditions historiques."
+            },
+            {
+              "url": "https://www.mcz.harvard.edu/collections/photographs/",
+              "desc": "Harvard Museum of Comparative Zoology : photos de collections, planches anciennes, spécimens uniques."
+            },
+            {
+              "url": "https://photoarchive.lib.uchicago.edu/db.xqy?show=browse1.xml%7C3348",
+              "desc": "Photographic Archive du département de zoologie de l’Université de Chicago : photos historiques de chercheurs, spécimens, laboratoires, rarement diffusées hors du campus."
+            },
+            {
+              "url": "https://australian.museum/learn/animals/",
+              "desc": "Animal factsheets de l’Australian Museum : images d’animaux rares, collections naturalistes, photos de terrain et de spécimens uniques."
+            },
+            {
+              "url": "https://www.biolib.cz/en/taxonimages/",
+              "desc": "Base naturaliste tchèque, photos rares d’animaux, souvent d’Europe de l’Est."
+            },
+            {
+              "url": "https://web.archive.org/web/20200214075350/https://www.arkive.org/",
+              "desc": "Archive d’images/vidéos d’espèces menacées, via Wayback Machine."
+            },
+            {
+              "url": "https://www.zobodat.at/gallery",
+              "desc": "Galerie zoologique autrichienne, photos de spécimens, collections naturalistes."
+            },
+            {
+              "url": "https://www.wildlife.org.au/gallery",
+              "desc": "Wildlife Australia Gallery : photos d’animaux sauvages, habitats, conservation."
+            }
+          ]
+        },
+        "Botany (Plant Sciences)": {
+          "image_gems": [
+            {
+              "url": "https://archive.org/details/englishbotanyorc07sowe",
+              "desc": "English Botany (Sowerby, 1863) : planches botaniques colorées, illustrations de plantes britanniques rares, herbiers historiques numérisés."
+            },
+            {
+              "url": "https://barnard.edu/news/historic-herbarium-goes-digital",
+              "desc": "Herbier historique numérisé de Barnard College : photos haute résolution de spécimens botaniques anciens, collection universitaire peu connue."
+            },
+            {
+              "url": "https://identify.plantnet.org/gallery",
+              "desc": "Galerie collaborative mondiale, photos de plantes peu courantes."
+            },
+            {
+              "url": "https://calphotos.berkeley.edu/flora/",
+              "desc": "Collection botanique universitaire US, images rares."
+            },
+            {
+              "url": "https://www.botanicus.org/gallery",
+              "desc": "Images botaniques anciennes, illustrations de plantes, jardins historiques."
+            },
+            {
+              "url": "https://www.rbge.org.uk/science/herbarium",
+              "desc": "Royal Botanic Garden Edinburgh Herbarium : photos de spécimens botaniques, collections naturalistes."
+            }
+          ]
+        },
+        "Geology": {
+          "image_gems": [
+            {
+              "url": "https://ngmdb.usgs.gov/Prodesc/proddesc_101.htm",
+              "desc": "USGS National Geologic Map Database : cartes géologiques anciennes, photos de terrain."
+            },
+            {
+              "url": "https://www.geolsoc.org.uk/Library-and-Information-Services/Images",
+              "desc": "Geological Society of London : images historiques de minéraux, fossiles, cartes et instruments."
+            },
+            {
+              "url": "https://www.usgs.gov/media/images",
+              "desc": "USGS Media Gallery : minéraux, roches, paysages géologiques, cartes anciennes."
+            },
+            {
+              "url": "https://www.bgs.ac.uk/discovering-geology/photographs/",
+              "desc": "British Geological Survey : photos de terrain, fossiles, coupes géologiques."
+            },
+            {
+              "url": "https://archive.org/details/fieldguidetogeol00lamb_0",
+              "desc": "The Field Guide to Geology : illustrations de terrain, croquis, photos de formations géologiques, extraits de guides de terrain anciens."
+            },
+            {
+              "url": "https://archive.org/details/geologicformatio00calirich",
+              "desc": "Cartes et photos d’archives sur les champs pétrolifères et formations géologiques de Californie, Division of Mines and Geology, documents d’État rares."
+            },
+            {
+              "url": "https://macrostrat.org/photo/",
+              "desc": "Galerie de photos de terrains géologiques, affleurements, roches, projets de recherche peu connus."
+            },
+            {
+              "url": "https://geoscienceworld.org/gswimages",
+              "desc": "Banque d’images scientifiques issues de revues géologiques, souvent uniques et peu référencées."
+            },
+            {
+              "url": "https://www.earth-prints.org/gallery",
+              "desc": "Galerie de photos géologiques, minéraux, roches, paysages, collections universitaires."
+            }
+          ]
+        },
+        "Demography": {
+          "image_gems": [
+            {
+              "url": "https://www.ipums.org/projects/ipums-photo-archive",
+              "desc": "IPUMS Photo Archive : images de recensements, formulaires, statistiques démographiques historiques."
+            },
+            {
+              "url": "https://www.populationeurope.org/gallery",
+              "desc": "Population Europe Gallery : infographies et photos sur la démographie européenne."
+            },
+            {
+              "url": "https://www.un.org/en/databases/population",
+              "desc": "UN Population Division : graphiques historiques, cartes démographiques, recensements."
+            },
+            {
+              "url": "https://www.loc.gov/pictures/search/?q=demography",
+              "desc": "Library of Congress : images on demography, migrations, families."
+            },
+            {
+              "url": "https://www.demographic-research.org/gallery",
+              "desc": "Demographic Research Gallery : images de démographie, graphiques, cartes, publications scientifiques."
+            }
+          ]
+        },
+        "Hobbies and Crafts": {
+          "image_gems": [
+            {
+              "url": "https://www.craftrevival.org/PhotoGallery.asp",
+              "desc": "Craft Revival Photo Gallery : images d’artisans, ateliers, objets faits main, traditions régionales."
+            },
+            {
+              "url": "https://digitaltmuseum.org/search/?type=photograph&query=craft",
+              "desc": "DigitaltMuseum : photos d’objets artisanaux nordiques, collections muséales peu connues."
+            },
+            {
+              "url": "https://www.folkartalliance.org/folk-art-in-action/photo-gallery/",
+              "desc": "Galerie photo d’artisanat populaire, objets faits main, scènes d’ateliers."
+            },
+            {
+              "url": "https://www.handweaversguild.co.uk/gallery",
+              "desc": "Handweavers Guild of America Gallery : photos de tissus, tapisseries, objets textiles artisanaux."
+            }
+          ]
+        },
+        "Personal Finance": {
+          "image_gems": [
+            {
+              "url": "https://fraser.stlouisfed.org/archival-collection/financial-crisis-2007-2009-730",
+              "desc": "Federal Reserve Archival System for Economic Research (FRASER) : photos de documents financiers historiques, affiches, graphiques."
+            },
+            {
+              "url": "https://www.nber.org/research/data-and-archive",
+              "desc": "National Bureau of Economic Research : archives visuelles sur l’économie et la finance personnelle."
+            },
+            {
+              "url": "https://www.loc.gov/pictures/search/?q=personal+finance",
+              "desc": "Library of Congress : images sur la gestion financière personnelle, économie domestique, épargne."
+            }
+          ]
+        },
+        "Transportation": {
+          "image_gems": [
+            {
+              "url": "https://www.loc.gov/pictures/search/?q=transportation",
+              "desc": "Library of Congress : images sur les transports, véhicules, infrastructures de transport."
+            }
+          ]
+        },
+        "Mental Health": {
+          "image_gems": [
+            {
+              "url": "https://www.loc.gov/pictures/search/?q=mental+health",
+              "desc": "Library of Congress : images sur la santé mentale, psychologie, thérapies."
+            }
+          ]
+        },
+        "Economics and Management": {
+          "Accounting": {
+            "image_gems": [
+              {
+                "url": "https://www.accountinginstruction.info/vintage-accounting-images/",
+                "desc": "Images vintage de livres de comptes, registres, matériel comptable historique."
+              }
+            ]
+          },
+          "Tourism and Hospitality": {
+            "image_gems": [
+              {
+                "url": "https://www.hotel-online.com/press_releases_gallery/",
+                "desc": "Photos d’hôtels historiques, brochures, affiches anciennes du secteur hôtelier."
+              }
+            ]
+          },
+          "Human Resources": {
+            "image_gems": [
+              {
+                "url": "https://www.loc.gov/pictures/search/?q=workplace",
+                "desc": "Photos historiques de lieux de travail, scènes de bureaux, Library of Congress."
+              },
+              {
+                "url": "https://www.flickr.com/photos/nlrb/albums",
+                "desc": "Archives photo de la National Labor Relations Board : syndicats, négociations, vie des salariés."
+              }
+            ]
+          },
+          "Management Science": {
+            "image_gems": [
+              {
+                "url": "https://www.library.hbs.edu/hc/archives/collections/photos",
+                "desc": "Photos historiques de la Harvard Business School, scènes de gestion, archives peu exploitées."
+              }
+            ]
+          }
+        }
+      },
+      "Blockchain": {
+        "image_gems": [
+          {
+            "url": "https://cryptographics.app/gallery",
+            "desc": "Galerie d’art génératif sur la blockchain, images originales et peu connues."
+          }
+        ]
+      },
+      "Advanced Robotics": {
+        "image_gems": [
+          {
+            "url": "https://robots.ieee.org/gallery/",
+            "desc": "Galerie IEEE Robotics : robots historiques, prototypes universitaires, concours internationaux."
+          },
+          {
+            "url": "https://cyberneticzoo.com/",
+            "desc": "Cybernetic Zoo : archives de robots, automates, exosquelettes, images rares et insolites."
+          }
+        ]
+      }
+    },
+    "Spiritualities and Religions": {
+      "Major Religions": {
+        "image_gems": [
+          {
+            "url": "https://archive.org/details/dr_the-histomap-of-religion-the-story-of-mans-search-for-spiritual-unity-by-10260005",
+            "desc": "The Histomap of Religion : infographie historique sur 100 000 ans de religions, images de cartes, schémas, documents iconographiques rares."
+          },
+          {
+            "url": "https://archive.org/details/ageofspiritualit0000unse",
+            "desc": "Age of Spirituality : catalogue d’exposition sur l’art chrétien antique, photos d’objets, fresques, manuscrits religieux peu connus."
+          },
+          {
+            "url": "https://www.wdl.org/en/search/gallery/?q=religion",
+            "desc": "Galerie d’images religieuses issues de la World Digital Library : manuscrits, objets, lieux de culte."
+          }
+        ]
+      },
+      "Indigenous Religions": {
+        "image_gems": [
+          {
+            "url": "https://www.sacredland.org/photo-gallery/",
+            "desc": "Photos de sites sacrés, cérémonies, objets rituels de religions autochtones."
+          }
+        ]
+      },
+      "New Religious Movements": {
+        "image_gems": [
+          {
+            "url": "https://www.flickr.com/photos/utopiasprings/albums",
+            "desc": "Albums photo de communautés et mouvements religieux contemporains peu documentés."
+          }
+        ]
+      },
+      "Economics and Management": {
+        "Management Science": {
+          "image_gems": [
+            {
+              "url": "https://www.library.hbs.edu/hc/archives/collections/photos",
+              "desc": "Photos historiques de la Harvard Business School, scènes de gestion, archives peu exploitées."
+            }
+          ]
+        },
+        "Marketing": {
+          "image_gems": [
+            {
+              "url": "https://www.adbranch.com/vintage-ads-gallery/",
+              "desc": "Galerie de publicités anciennes, campagnes marketing originales, fonds peu connus."
+            }
+          ]
+        },
+        "Accounting": {
+          "image_gems": [
+            {
+              "url": "https://www.accountinginstruction.info/vintage-accounting-images/",
+              "desc": "Images vintage de livres de comptes, registres, matériel comptable historique."
+            }
+          ]
+        },
+        "Tourism and Hospitality": {
+          "image_gems": [
+            {
+              "url": "https://www.hotel-online.com/press_releases_gallery/",
+              "desc": "Photos d'hôtels historiques, brochures, affiches anciennes du secteur hôtelier."
+            }
+          ]
+        },
+        "Human Resources": {
+          "image_gems": [
+            {
+              "url": "https://www.loc.gov/pictures/search/?q=workplace",
+              "desc": "Photos historiques de lieux de travail, scènes de bureaux, Library of Congress."
+            },
+            {
+              "url": "https://www.flickr.com/photos/nlrb/albums",
+              "desc": "Archives photo de la National Labor Relations Board : syndicats, négociations, vie des salariés."
+            }
+          ]
+        },
+        "Advanced Robotics": {
+          "image_gems": [
+            {
+              "url": "https://robots.ieee.org/gallery/",
+              "desc": "Galerie IEEE Robotics : robots historiques, prototypes universitaires, concours internationaux."
+            },
+            {
+              "url": "https://cyberneticzoo.com/",
+              "desc": "Cybernetic Zoo : archives de robots, automates, exosquelettes, images rares et insolites."
+            }
+          ]
+        }
+      }
+    }
+  },
+  "Physics": {
+    "Optics": {
+      "image_gems": [
+        {
+          "url": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/arabic-optics-manuscript-granger.jpg",
+          "desc": "Image for query: Arabic optics manuscripts"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Alhazen1652.png/250px-Alhazen1652.png",
+          "desc": "Image for query: Arabic optics manuscripts"
+        },
+        {
+          "url": "https://inlibris.com/wp-content/uploads/2022/02/img-bn57395-i.jpg",
+          "desc": "Image for query: Arabic optics manuscripts"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Book_of_Optics_Cover_Page.jpg",
+          "desc": "Image for query: Arabic optics manuscripts"
+        },
+        {
+          "url": "https://media.sciencephoto.com/c0/22/55/95/c0225595-400px-wm.jpg",
+          "desc": "Image for query: Arabic optics manuscripts"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/261744073/figure/fig3/AS:458655364587523@1486363368641/bn-al-Haythams-diagram-of-the-eyes-from-his-Book-of-Optics.png",
+          "desc": "Image for query: Ibn al-Haytham diagrams"
+        },
+        {
+          "url": "https://cdn.assets.lomography.com/79/40fa657a5ee4172880e8677abd79f38ca04d1e/563x625x1.jpg?auth=f99647431fc445c8763eb9b8e26bc9e8ddf49653",
+          "desc": "Image for query: Ibn al-Haytham diagrams"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/235442401/figure/fig3/AS:667172229632000@1536077663004/a-Binocular-visionary-All-portraits-of-Ibn-al-Haytham-or-Alhazen-ca-965-1039-are.png",
+          "desc": "Image for query: Ibn al-Haytham diagrams"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/368991137/figure/fig1/AS:11431281124516190@1677976820175/Diagram-of-the-visual-system-in-Ibn-al-Haythams-Kitab-al-Manazir-Ms-Ayasofya-1493.png",
+          "desc": "Image for query: Ibn al-Haytham diagrams"
+        },
+        {
+          "url": "https://www.researchgate.net/publication/224319836/figure/fig1/AS:649636003983454@1531896701846/bn-al-Haythams-description-of-the-human-visual-system-From-a-1083-475-AH-copy-of.png",
+          "desc": "Image for query: Ibn al-Haytham diagrams"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Khalili_Collection_Islamic_Art_mss_1164_fol_19b-20a.jpg/640px-Khalili_Collection_Islamic_Art_mss_1164_fol_19b-20a.jpg",
+          "desc": "Image for query: historical physics scrolls in Arabic"
+        },
+        {
+          "url": "https://muslimheritage.com/wp-content/uploads/2019/06/muslimheritage-a-new-arabic-text-of-mechanics-sinan-ibn-thabit-on-the-theory-of-simple-machines-new-arabic-text-mechanics-banner.jpg",
+          "desc": "Image for query: historical physics scrolls in Arabic"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/33/Tusi_couple.jpg",
+          "desc": "Image for query: historical physics scrolls in Arabic"
+        },
+        {
+          "url": "https://thonyc.wordpress.com/wp-content/uploads/2024/02/ali_al-sharif_al-jurjani_al-husaini_a_revision_of_nasir-ad-din_al-tusis_tazkirah_a_treatise_on_astronomy_with_extensive_annotations_and_corrections_by_the_16th_century_astronomer_shams-a.jpg?w=440",
+          "desc": "Image for query: historical physics scrolls in Arabic"
+        },
+        {
+          "url": "https://muslimheritage.com/wp-content/uploads/2019/08/muslimheritage.com-muslim-heritage-in-mechanics-and-technology-outline-of-a-program-for-future-research-muslim-heritage-mechanics-04.jpg",
+          "desc": "Image for query: historical physics scrolls in Arabic"
+        },
+        {
+          "url": "https://muslimheritage.com/sites/default/files/ibn_al-haytham_nader_el-bizri_02.jpg",
+          "desc": "Image for query: Islamic optics instruments"
+        },
+        {
+          "url": "https://images.aeonmedia.co/images/ba8d140f-3fec-467f-80af-0ffa39272b47/essay-telescopes-164082069.jpg?width=3840&quality=75&format=auto",
+          "desc": "Image for query: Islamic optics instruments"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Astrolabe-Persian-18C.jpg",
+          "desc": "Image for query: Islamic optics instruments"
+        },
+        {
+          "url": "https://static.wixstatic.com/media/7335d9_cbda9358fc78485b9812138135f8f72a~mv2.jpeg/v1/fill/w_750,h_750,al_c,q_85,enc_avif,quality_auto/7335d9_cbda9358fc78485b9812138135f8f72a~mv2.jpeg",
+          "desc": "Image for query: Islamic optics instruments"
+        },
+        {
+          "url": "https://www.photonics.com/images/Web/Articles/2020/8/4/GoldenAge_fig2.jpg",
+          "desc": "Image for query: Islamic optics instruments"
+        },
+        {
+          "url": "https://live.staticflickr.com/2491/3952724524_a8a99176e3_z.jpg",
+          "desc": "Image for query: Arabic optical illusions"
+        },
+        {
+          "url": "https://i.pinimg.com/736x/85/bb/4f/85bb4f1e7cd6ff5e6305ff9aee66f451.jpg",
+          "desc": "Image for query: Arabic optical illusions"
+        },
+        {
+          "url": "https://i.pinimg.com/564x/e3/0c/ff/e30cff3d1a1f2e781edf9a7c87a30a7f.jpg",
+          "desc": "Image for query: Arabic optical illusions"
+        },
+        {
+          "url": "https://www.shutterstock.com/shutterstock/photos/2133485027/display_1500/stock-vector-seamless-geometric-pattern-optical-illusion-arabic-indian-greek-pattern-mandala-2133485027.jpg",
+          "desc": "Image for query: Arabic optical illusions"
+        },
+        {
+          "url": "https://thumbs.dreamstime.com/b/circular-geometric-mandala-vector-arabic-ornament-decorative-design-optical-illusion-effect-circular-geometric-ornamental-325364256.jpg",
+          "desc": "Image for query: Arabic optical illusions"
+        }
+      ]
+    }
+  }
+}
