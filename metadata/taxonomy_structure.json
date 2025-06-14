@@ -1,0 +1,839 @@
+{
+  "Sciences": {
+    "Formal Sciences": {
+      "Logic and Mathematics": {
+        "Pure Mathematics": {
+          "Number Theory": {},
+          "Algebra": {},
+          "Topology": {},
+          "Geometry": {},
+          "Algebraic Geometry": {},
+          "Differential Geometry": {},
+          "Real Analysis": {},
+          "Complex Analysis": {},
+          "Functional Analysis": {},
+          "Set Theory": {}
+        },
+        "Statistics and Probability": {
+          "Descriptive Statistics": {},
+          "Inferential Statistics": {},
+          "Bayesian Statistics": {},
+          "Probability Theory": {},
+          "Statistical Modeling": {},
+          "Design of Experiments": {},
+          "Actuarial Science": {}
+        },
+        "Mathematical Logic": {
+          "Propositional Logic": {},
+          "Predicate Logic": {},
+          "Model Theory": {},
+          "Proof Theory": {},
+          "Computability Theory": {},
+          "Fuzzy Logic": {}
+        }
+      },
+      "Computer Science": {
+        "Theory of Computation": {
+          "Automata Theory": {},
+          "Computability Theory": {},
+          "Complexity Theory": {},
+          "Formal Languages": {}
+        },
+        "Algorithms and Data Structures": {
+          "Sorting Algorithms": {},
+          "Graph Algorithms": {},
+          "Data Structures": {
+            "Arrays": {},
+            "Linked Lists": {},
+            "Stacks and Queues": {},
+            "Trees": {},
+            "Hash Tables": {}
+          },
+          "Optimization Algorithms": {}
+        },
+        "Artificial Intelligence": {
+          "Machine Learning": {
+            "Supervised Learning": {},
+            "Unsupervised Learning": {},
+            "Reinforcement Learning": {}
+          },
+          "Neural Networks": {},
+          "Computer Vision": {},
+          "Natural Language Processing": {},
+          "Expert Systems": {},
+          "Knowledge Representation": {}
+        },
+        "Data Science": {
+          "Data Mining": {},
+          "Data Engineering": {},
+          "Big Data Technologies": {},
+          "Data Visualization": {},
+          "Statistical Learning": {}
+        },
+        "Cybersecurity": {
+          "Network Security": {},
+          "Application Security": {},
+          "Cryptography": {},
+          "Security Protocols": {},
+          "Ethical Hacking": {}
+        }
+      },
+      "Information Science": {
+        "Library Science": {},
+        "Archival Science": {},
+        "Information Management": {},
+        "Knowledge Management": {},
+        "Human-Computer Interaction (HCI)": {}
+      }
+    },
+    "Natural and Physical Sciences": {
+      "Physics": {
+        "Mechanics": {
+          "Classical Mechanics": {},
+          "Quantum Mechanics": {},
+          "Statistical Mechanics": {},
+          "Fluid Mechanics": {},
+          "Solid Mechanics": {}
+        },
+        "Thermodynamics": {
+          "Classical Thermodynamics": {},
+          "Statistical Thermodynamics": {},
+          "Heat Transfer": {}
+        },
+        "Optics": {
+          "Geometric Optics": {},
+          "Physical Optics": {},
+          "Quantum Optics": {},
+          "Photonics": {}
+        },
+        "Quantum Physics": {
+          "Quantum Field Theory": {},
+          "Particle Physics": {},
+          "Quantum Information": {}
+        },
+        "Nuclear Physics": {
+          "Nuclear Structure": {},
+          "Nuclear Reactions": {},
+          "Radiation Physics": {}
+        }
+      },
+      "Chemistry": {
+        "Organic Chemistry": {
+          "Hydrocarbons": {},
+          "Stereochemistry": {},
+          "Biochemistry": {},
+          "Carbonyl Chemistry": {},
+          "Organometallic Chemistry": {}
+        },
+        "Inorganic Chemistry": {
+          "Coordination Chemistry": {},
+          "Solid State Chemistry": {},
+          "Bioinorganic Chemistry": {}
+        },
+        "Analytical Chemistry": {
+          "Spectroscopy": {},
+          "Chromatography": {},
+          "Mass Spectrometry": {},
+          "Electrochemistry": {}
+        },
+        "Physical Chemistry": {
+          "Quantum Chemistry": {},
+          "Thermochemistry": {},
+          "Chemical Kinetics": {},
+          "Surface Chemistry": {}
+        }
+      },
+      "Earth Sciences": {
+        "Geology": {
+          "Mineralogy": {},
+          "Petrology": {},
+          "Paleontology": {},
+          "Seismology": {},
+          "Volcanology": {}
+        },
+        "Oceanography": {
+          "Physical Oceanography": {},
+          "Chemical Oceanography": {},
+          "Marine Biology": {},
+          "Marine Geology": {},
+          "Marine Conservation": {}
+        },
+        "Meteorology": {
+          "Atmospheric Dynamics": {},
+          "Atmospheric Physics": {},
+          "Weather Forecasting": {}
+        },
+        "Climatology": {
+          "Paleoclimatology": {},
+          "Climate Modeling": {},
+          "Climate Change Studies": {}
+        }
+      },
+      "Astronomy and Astrophysics": {
+        "Cosmology": {
+          "Physical Cosmology": {},
+          "Observational Cosmology": {}
+        },
+        "Stellar Studies": {
+          "Stellar Evolution": {},
+          "Stellar Structure": {},
+          "Stellar Astrophysics": {}
+        },
+        "Planetary Science": {
+          "Planet Formation": {},
+          "Planetary Geology": {},
+          "Exoplanets": {}
+        }
+      },
+      "Biology": {
+        "Cell Biology": {
+          "Cell Signaling": {},
+          "Cell Structure": {},
+          "Cell Cycle": {}
+        },
+        "Molecular Biology": {
+          "DNA Replication": {},
+          "Transcription and Translation": {},
+          "Genomics": {}
+        },
+        "Ecology": {
+          "Population Ecology": {},
+          "Community Ecology": {},
+          "Ecosystem Ecology": {},
+          "Conservation Biology": {}
+        },
+        "Evolutionary Biology": {
+          "Natural Selection": {},
+          "Evolutionary Genetics": {},
+          "Speciation": {}
+        },
+        "Genetics": {
+          "Mendelian Genetics": {},
+          "Genomics": {},
+          "Epigenetics": {},
+          "Genetic Engineering": {}
+        },
+        "Zoology (Animal Sciences)": {
+          "Animal Physiology": {},
+          "Animal Behavior (Ethology)": {},
+          "Entomology": {},
+          "Ichthyology": {},
+          "Herpetology": {},
+          "Ornithology": {},
+          "Mammalogy": {}
+        },
+        "Botany (Plant Sciences)": {
+          "Plant Physiology": {},
+          "Plant Ecology": {},
+          "Plant Genetics": {},
+          "Phycology": {},
+          "Mycology": {}
+        }
+      },
+      "Environmental Sciences": {
+        "Environmental Chemistry": {},
+        "Environmental Toxicology": {},
+        "Pollution Control": {},
+        "Waste Management": {},
+        "Conservation Science": {},
+        "Climate Change Impacts and Adaptation": {}
+      }
+    },
+    "Life Sciences and Health": {
+      "Medicine": {
+        "General Medicine": {
+          "Internal Medicine": {},
+          "Family Medicine": {}
+        },
+        "Anatomy and Physiology": {
+          "Human Anatomy": {},
+          "Comparative Anatomy": {},
+          "Physiology": {
+            "Cardiovascular Physiology": {},
+            "Respiratory Physiology": {},
+            "Neurophysiology": {}
+          }
+        },
+        "Pharmacology": {
+          "Clinical Pharmacology": {},
+          "Pharmacokinetics": {},
+          "Pharmacodynamics": {},
+          "Toxicology": {}
+        },
+        "Medical Specialties": {
+          "Surgery": {
+            "General Surgery": {},
+            "Cardiothoracic Surgery": {},
+            "Neurosurgery": {}
+          },
+          "Radiology": {
+            "Diagnostic Radiology": {},
+            "Interventional Radiology": {}
+          },
+          "Pathology": {
+            "Histopathology": {},
+            "Clinical Pathology": {}
+          },
+          "Dermatology": {},
+          "Pediatrics": {},
+          "Obstetrics and Gynecology": {},
+          "Psychiatry": {},
+          "Neurology": {},
+          "Oncology": {}
+        }
+      },
+      "Health Sciences": {
+        "Public Health": {
+          "Epidemiology": {},
+          "Biostatistics": {},
+          "Global Health": {}
+        },
+        "Nutrition": {
+          "Clinical Nutrition": {},
+          "Dietetics": {}
+        },
+        "Clinical Psychology": {
+          "Behavioral Therapy": {},
+          "Cognitive Psychology": {}
+        }
+      },
+      "Agricultural Sciences": {
+        "Agronomy": {
+          "Crop Science": {},
+          "Soil Science": {}
+        },
+        "Veterinary Science": {
+          "Animal Nutrition": {},
+          "Veterinary Pathology": {}
+        },
+        "Fisheries and Aquaculture": {
+          "Aquaculture Techniques": {},
+          "Fisheries Management": {}
+        },
+        "Agroecology": {},
+        "Food Science and Technology": {},
+        "Food Security": {}
+      },
+      "Sports Sciences": {
+        "Sports Medicine": {},
+        "Biomechanics": {},
+        "Exercise Physiology": {},
+        "Sports Nutrition": {},
+        "Sports Psychology": {}
+      }
+    }
+  },
+  "Technology and Engineering": {
+    "Engineering": {
+      "Civil Engineering": {
+        "Structural Engineering": {},
+        "Geotechnical Engineering": {},
+        "Transportation Engineering": {},
+        "Environmental Engineering": {}
+      },
+      "Mechanical Engineering": {
+        "Thermodynamics": {},
+        "Fluid Mechanics": {},
+        "Machine Design": {},
+        "Manufacturing Engineering": {},
+        "HVAC": {}
+      },
+      "Electrical Engineering": {
+        "Circuit Theory": {},
+        "Electromagnetics": {},
+        "Power Systems": {},
+        "Control Systems": {},
+        "Telecommunications Engineering": {}
+      },
+      "Chemical Engineering": {
+        "Process Engineering": {},
+        "Biochemical Engineering": {},
+        "Materials Engineering": {},
+        "Petrochemical Engineering": {}
+      }
+    },
+    "Information Technologies": {
+      "Software Engineering": {
+        "Software Architecture": {},
+        "DevOps": {},
+        "Software Testing": {}
+      },
+      "Networks and Communications": {
+        "Wireless Networks": {},
+        "Network Protocols": {},
+        "Network Security": {}
+      },
+      "Big Data": {
+        "Hadoop": {},
+        "Spark": {},
+        "NoSQL Databases": {}
+      },
+      "Artificial Intelligence": {
+        "Machine Learning": {
+          "Deep Learning": {},
+          "Reinforcement Learning": {},
+          "Transfer Learning": {}
+        },
+        "Computer Vision": {
+          "Image Recognition": {},
+          "Object Detection": {},
+          "Semantic Segmentation": {}
+        },
+        "Natural Language Processing": {
+          "Language Modeling": {},
+          "Machine Translation": {},
+          "Question Answering": {}
+        },
+        "Robotics": {
+          "Robot Perception": {},
+          "Robot Motion Planning": {}
+        }
+      },
+      "Cybersecurity": {
+        "Network Security": {},
+        "Application Security": {},
+        "Cryptography": {},
+        "Security Protocols": {},
+        "Ethical Hacking": {}
+      }
+    },
+    "Energy and Environment": {
+      "Renewable Energy": {
+        "Solar Energy": {},
+        "Wind Energy": {},
+        "Hydroelectric": {},
+        "Biomass Energy": {}
+      },
+      "Nuclear Energy": {},
+      "Environmental Management": {
+        "Waste Management": {},
+        "Water Resource Management": {},
+        "Environmental Policy": {}
+      }
+    },
+    "Mechanisms and Automation": {
+      "Robotics": {
+        "Industrial Robotics": {},
+        "Humanoid Robots": {},
+        "Autonomous Systems": {}
+      },
+      "Fluid Mechanics": {},
+      "Industrial Control": {
+        "PLCs": {},
+        "SCADA Systems": {}
+      }
+    }
+  },
+  "Social Sciences": {
+    "Economics and Finance": {
+      "Microeconomics": {
+        "Consumer Theory": {},
+        "Producer Theory": {},
+        "Game Theory": {}
+      },
+      "Macroeconomics": {
+        "Economic Growth": {},
+        "Monetary Economics": {},
+        "Fiscal Policy": {}
+      },
+      "Finance": {
+        "Corporate Finance": {},
+        "Investment": {},
+        "Financial Markets": {},
+        "Derivatives": {}
+      },
+      "Marketing": {
+        "Marketing Research": {},
+        "Advertising": {},
+        "Consumer Behavior": {}
+      }
+    },
+    "Sociology and Anthropology": {
+      "Sociology": {
+        "Social Stratification": {},
+        "Urban Sociology": {},
+        "Medical Sociology": {}
+      },
+      "Cultural Anthropology": {
+        "Ethnography": {},
+        "Cultural Theory": {}
+      },
+      "Demography": {
+        "Population Studies": {},
+        "Demographic Methods": {}
+      }
+    },
+    "Politics and Administration": {
+      "Political Science": {
+        "Political Theory": {},
+        "Comparative Politics": {},
+        "Public Policy": {}
+      },
+      "Public Administration": {
+        "Administrative Theory": {},
+        "Public Sector Management": {}
+      },
+      "International Relations": {
+        "International Security": {},
+        "Diplomacy": {},
+        "International Political Economy": {}
+      }
+    },
+    "Psychology and Behavior": {
+      "General Psychology": {
+        "Developmental Psychology": {},
+        "Cognitive Psychology": {},
+        "Social Psychology": {}
+      },
+      "Psychoanalysis": {
+        "Freudian Theory": {},
+        "Jungian Theory": {}
+      }
+    },
+    "Law and Governance": {
+      "Civil Law": {
+        "Contract Law": {},
+        "Tort Law": {},
+        "Property Law": {}
+      },
+      "International Law": {
+        "Human Rights Law": {},
+        "International Criminal Law": {}
+      },
+      "Justice and Jurisprudence": {
+        "Legal Theory": {},
+        "Comparative Law": {}
+      }
+    },
+    "Education and Pedagogy": {
+      "Education Theory": {
+        "Curriculum Theory": {},
+        "Learning Theories": {}
+      },
+      "Teaching Methods": {
+        "Instructional Design": {},
+        "Educational Technology": {}
+      },
+      "Continuing Education": {
+        "Adult Education": {},
+        "Professional Development": {}
+      }
+    },
+    "Gender Studies": {
+      "Feminist Theory": {},
+      "Masculinity Studies": {},
+      "Queer Theory": {},
+      "Gender and Development": {}
+    },
+    "Forensic Sciences": {
+      "Forensic Anthropology": {},
+      "Forensic Biology (DNA Analysis)": {},
+      "Forensic Chemistry (Toxicology)": {},
+      "Digital Forensics": {},
+      "Forensic Psychology": {},
+      "Crime Scene Investigation": {}
+    },
+    "Military Sciences": {
+      "Military History": {},
+      "Military Strategy and Tactics": {},
+      "Military Logistics": {},
+      "Military Technology and Equipment": {},
+      "Defense Studies": {},
+      "Peace and Conflict Studies": {}
+    }
+  },
+  "Humanities": {
+    "History": {
+      "Ancient History": {
+        "Mesopotamian History": {},
+        "Egyptian History": {},
+        "Greek History": {},
+        "Roman History": {}
+      },
+      "Medieval History": {
+        "Byzantine History": {},
+        "Medieval Europe": {},
+        "Islamic Golden Age": {}
+      },
+      "Modern History": {
+        "Age of Enlightenment": {},
+        "Industrial Revolution": {},
+        "Colonialism": {}
+      },
+      "Contemporary History": {
+        "20th Century Wars": {},
+        "Cold War": {},
+        "Information Age": {}
+      }
+    },
+    "Literature and Languages": {
+      "Languages": {
+        "English": {},
+        "French": {},
+        "Spanish": {},
+        "Mandarin": {},
+        "Arabic": {},
+        "Russian": {},
+        "Hindi": {},
+        "Portuguese": {}
+      },
+      "Literatures": {
+        "World Literature": {},
+        "Poetry": {},
+        "Novel": {},
+        "Drama": {},
+        "Short Story": {}
+      },
+      "Linguistics": {
+        "Phonetics": {},
+        "Phonology": {},
+        "Syntax": {},
+        "Semantics": {},
+        "Pragmatics": {}
+      }
+    },
+    "Philosophy and Ethics": {
+      "Ancient Philosophy": {
+        "Pre-Socratic": {},
+        "Socratic": {},
+        "Platonic": {},
+        "Aristotelian": {}
+      },
+      "Modern Philosophy": {
+        "Rationalism": {},
+        "Empiricism": {},
+        "Existentialism": {},
+        "Phenomenology": {}
+      },
+      "Ethics": {
+        "Normative Ethics": {},
+        "Metaethics": {},
+        "Applied Ethics": {
+          "Bioethics": {},
+          "Tech Ethics": {}
+        }
+      }
+    },
+    "Arts and Culture": {
+      "Visual Arts": {
+        "Painting": {
+          "Renaissance": {},
+          "Baroque": {},
+          "Impressionism": {},
+          "Modern Art": {}
+        },
+        "Sculpture": {
+          "Classical Sculpture": {},
+          "Modern Sculpture": {}
+        },
+        "Photography": {
+          "Documentary Photography": {},
+          "Portrait Photography": {},
+          "Digital Photography": {}
+        }
+      },
+      "Performing Arts": {
+        "Music": {
+          "Classical Music": {},
+          "Jazz": {},
+          "Pop/Rock": {},
+          "Electronic Music": {}
+        },
+        "Dance": {
+          "Ballet": {},
+          "Contemporary Dance": {},
+          "Folk Dance": {}
+        },
+        "Theater": {
+          "Classical Theater": {},
+          "Modern Drama": {},
+          "Musical Theater": {}
+        }
+      },
+      "Cultural Heritage": {
+        "Museums": {
+          "Art Museums": {},
+          "History Museums": {}
+        },
+        "Intangible Heritage": {
+          "Oral Traditions": {},
+          "Festivals": {},
+          "Rituals": {}
+        },
+        "Heritage Science": {
+          "Conservation Science": {},
+          "Archaeometry": {},
+          "Digital Heritage": {}
+        }
+      }
+    },
+    "Spiritualities and Religions": {
+      "Comparative Religions": {
+        "Christianity": {},
+        "Islam": {},
+        "Hinduism": {},
+        "Buddhism": {},
+        "Judaism": {}
+      },
+      "Mythology": {
+        "Greek Mythology": {},
+        "Norse Mythology": {},
+        "Egyptian Mythology": {}
+      },
+      "Contemporary Spiritualities": {
+        "New Age": {},
+        "Neo-Paganism": {}
+      }
+    }
+  },
+  "Daily Life and Leisure": {
+    "Food and Cooking": {
+      "Cuisines": {
+        "Italian Cuisine": {},
+        "Chinese Cuisine": {},
+        "Mexican Cuisine": {},
+        "Indian Cuisine": {},
+        "Japanese Cuisine": {}
+      },
+      "Cooking Techniques": {
+        "Baking": {},
+        "Grilling": {},
+        "Stir-frying": {},
+        "Sous-vide": {}
+      }
+    },
+    "Fashion and Clothing": {
+      "Fashion History": {},
+      "Clothing Construction": {},
+      "Textile Design": {},
+      "Accessory Design": {}
+    },
+    "Home and DIY": {
+      "Carpentry": {},
+      "Plumbing": {},
+      "Electrical Repairs": {},
+      "Interior Design": {}
+    },
+    "Tourism and Travel": {
+      "Ecotourism": {},
+      "Cultural Tourism": {},
+      "Adventure Travel": {},
+      "Business Travel": {}
+    },
+    "Sports and Games": {
+      "Team Sports": {
+        "Football (Soccer)": {},
+        "Basketball": {},
+        "Baseball": {}
+      },
+      "Individual Sports": {
+        "Tennis": {},
+        "Athletics": {},
+        "Swimming": {}
+      },
+      "Board Games": {
+        "Chess": {},
+        "Go": {},
+        "Modern Board Games": {}
+      },
+      "Video Games": {
+        "Action": {},
+        "Role-Playing Games": {},
+        "Strategy": {},
+        "Indie Games": {}
+      }
+    },
+    "Health and Wellness": {
+      "Fitness": {
+        "Yoga": {},
+        "Strength Training": {},
+        "Cardio": {}
+      },
+      "Mental Health": {
+        "Mindfulness": {},
+        "Therapy Methods": {}
+      },
+      "Alternative Medicine": {
+        "Herbal Medicine": {},
+        "Acupuncture": {}
+      }
+    },
+    "Practical Life": {
+      "Transportation": {
+        "Automobiles": {},
+        "Public Transit": {},
+        "Cycling": {}
+      },
+      "Personal Finance": {
+        "Budgeting": {},
+        "Investing": {},
+        "Taxes": {}
+      },
+      "Family Relationships": {
+        "Parenting": {},
+        "Marriage Counseling": {},
+        "Elder Care": {}
+      }
+    }
+  },
+  "Economics and Management": {
+    "Entrepreneurship": {
+      "Startup Formation": {},
+      "Business Models": {},
+      "Venture Capital": {}
+    },
+    "Business Management": {
+      "Strategic Management": {},
+      "Operations Management": {},
+      "Human Resources": {}
+    },
+    "International Economics": {
+      "Trade Theory": {},
+      "Development Economics": {},
+      "Globalization": {}
+    },
+    "Commerce": {
+      "Retail Management": {},
+      "E-commerce": {},
+      "Supply Chain Management": {}
+    }
+  },
+  "Emerging Technologies": {
+    "Artificial Intelligence": {
+      "Machine Learning": {
+        "Deep Learning": {},
+        "Reinforcement Learning": {},
+        "Transfer Learning": {}
+      },
+      "Computer Vision": {
+        "Image Recognition": {},
+        "Object Detection": {},
+        "Semantic Segmentation": {}
+      },
+      "Natural Language Processing": {
+        "Language Modeling": {},
+        "Machine Translation": {},
+        "Question Answering": {}
+      },
+      "Robotics": {
+        "Robot Perception": {},
+        "Robot Motion Planning": {}
+      }
+    },
+    "Data Science": {
+      "Data Mining": {},
+      "Data Visualization": {},
+      "Predictive Modeling": {}
+    },
+    "Blockchain": {
+      "Cryptocurrencies": {},
+      "Smart Contracts": {},
+      "Decentralized Applications": {}
+    },
+    "Advanced Robotics": {
+      "Humanoid Robotics": {},
+      "Swarm Robotics": {},
+      "Soft Robotics": {}
+    }
+  }
+}

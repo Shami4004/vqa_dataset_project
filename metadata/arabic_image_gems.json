@@ -1,0 +1,52 @@
+{
+  "Sciences": {
+    "Formal Sciences": [],
+    "Natural and Physical Sciences": [],
+    "Life Sciences and Health": []
+  },
+  "Technology and Engineering": {
+    "Engineering": [],
+    "Information Technologies": [],
+    "Energy and Environment": [],
+    "Mechanisms and Automation": []
+  },
+  "Social Sciences": {
+    "Economics and Finance": [],
+    "Sociology and Anthropology": [],
+    "Politics and Administration": [],
+    "Psychology and Behavior": [],
+    "Law and Governance": [],
+    "Education and Pedagogy": [],
+    "Gender Studies": [],
+    "Forensic Sciences": [],
+    "Military Sciences": []
+  },
+  "Humanities": {
+    "History": [],
+    "Literature and Languages": [],
+    "Philosophy and Ethics": [],
+    "Arts and Culture": [],
+    "Spiritualities and Religions": []
+  },
+  "Daily Life and Leisure": {
+    "Food and Cooking": [],
+    "Fashion and Clothing": [],
+    "Home and DIY": [],
+    "Tourism and Travel": [],
+    "Sports and Games": [],
+    "Health and Wellness": [],
+    "Practical Life": []
+  },
+  "Economics and Management": {
+    "Entrepreneurship": [],
+    "Business Management": [],
+    "International Economics": [],
+    "Commerce": []
+  },
+  "Emerging Technologies": {
+    "Artificial Intelligence": [],
+    "Data Science": [],
+    "Blockchain": [],
+    "Advanced Robotics": []
+  }
+}
